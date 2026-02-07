@@ -1,1 +1,2 @@
-Iniciador
+Iniciador PC
+Iniciador NB
